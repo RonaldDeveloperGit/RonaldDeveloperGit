@@ -1,8 +1,10 @@
 ## ¡Hola! 👋 Soy Ronald
 
+
 🎓 Estudiante de **Ingeniería Informática** en la Universidad Mayor de San Simón.
 
-💡 Me aprender encanta sobre nuevas tecnologías y desarrollar habilidades que me permitan crecer como profesional.
+
+Me encanta aprender sobre nuevas tecnologías y desarrollar habilidades que me permitan crecer como profesional.
 
 🛠️ Lenguajes y herramientas que me interesan:
 - Java ☕
